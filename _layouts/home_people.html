@@ -1,0 +1,15 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+#<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+<ul>
+    {% for author in site.data.authors %}
+    <li>
+        {{ author[1].name }}
+    </li>
+    {% endfor %}
+</ul>
