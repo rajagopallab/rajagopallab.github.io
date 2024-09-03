@@ -1,6 +1,6 @@
 # Authors
 
-Shankari Rajagopal:
+svraj:
   name          : "Shankari Rajagopal"
   picture       : #"/assets/images/author.jpg"
   url           : #"https://desiredpersona.com/about/"
@@ -14,7 +14,7 @@ Shankari Rajagopal:
   facebook      : #"desiredpersona"
 
 
-Joe Bloggs:
+jbloggs:
   name          : "Joe Bloggs"
   picture       : "/assets/images/author-2.png"
   url           : "http://example.com"

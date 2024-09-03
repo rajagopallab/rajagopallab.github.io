@@ -2,6 +2,13 @@
 layout: default
 classes: wide
 title: "People"
-permalink: /people
-author_profile: Shankari Rajagopal
+permalink: /people/
 ---
+
+<ul>
+    {% for author in site.data.authors %}
+    <li>
+        {{ author[1].name }}
+    </li>
+    {% endfor %}
+</ul>
