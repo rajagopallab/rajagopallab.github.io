@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 classes: wide
 title: "People"
 permalink: /people/
@@ -8,8 +8,7 @@ permalink: /people/
 <ul>
     {% for author in site.data.authors %}
     <li>
-        {{ author[1].name }}
-	author_profile: true
+        author-profile: author=svraj
     </li>
     {% endfor %}
 </ul>
