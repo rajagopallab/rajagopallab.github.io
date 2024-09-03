@@ -138,6 +138,34 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+authors:
+	svraj:
+	  name          : "Shankari Rajagopal"
+	  picture       : #"/assets/images/author.jpg"
+	  url           : #"https://desiredpersona.com/about/"
+	  email         : #"hello@desiredpersona.com"
+	  bio           : #"Affiliate marketer. Media buyer. Developer."
+	  post_meta_bio : #"Affiliate marketer. Media buyer. Developer."
+	  cta           : #"Follow"
+	  cta_url       : #"https://twitter.com/desiredpersona"
+	  twitter       : #"desiredpersona"
+	  google_plus   : #"DesiredPersona"
+	  facebook      : #"desiredpersona"
+
+
+	jbloggs:
+	  name          : "Joe Bloggs"
+	  picture       : "/assets/images/author-2.png"
+	  url           : "http://example.com"
+	  email         : "joebloggs458@gmail.com"
+	  bio           : "This is a long bio that only appears under a blog post"
+	  post_meta_bio : "Business man. Investor"
+	  cta           : "Subscribe"
+	  cta_url       : "/newsletter/"
+	  twitter       : "joebloggs"
+	  google_plus   : "joebloggs"
+	  facebook      : "joebloggs"
+
 # Site Footer
 footer:
   links:
@@ -318,7 +346,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
