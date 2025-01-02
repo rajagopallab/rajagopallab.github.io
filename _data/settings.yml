@@ -51,9 +51,9 @@ courses:
 
 social:
 - {icon: 'github', link: 'https://github.com/rajagopallab'}
-%- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-%- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-%- {icon: 'linkedin', link: 'https://www.linkedin.com/in/shankari-rajagopal-3a520015'}
+#- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+#- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+#- {icon: 'linkedin', link: 'https://www.linkedin.com/in/shankari-rajagopal-3a520015'}
 
 contacts:
 - {name: 'Shankari Rajagopal',
