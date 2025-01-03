@@ -1,10 +1,10 @@
 menu:
+- {name: 'research', url: '/research'}
 - {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
 - {name: 'news', url: '/news'}
 - {name: 'courses', url: '/courses'}
 - {name: 'resources', url: '/resources'}
-- {name: 'contact', url: '/contact'}
 
 people:
 - {name: 'Shankari Rajagopal',
@@ -13,14 +13,26 @@ people:
   institution: 'University of Michigan',
   institution_address: '450 Church Street, Ann Arbor, MI 48109',
   phone: '(775) 225-7355',
-  email: 'svraj@umich.edu',
-  office: 'Neal Lab 4223',
-  lab: 'Neal Lab 3214' ,
-  image: 'assets/img/primary-investigator.jpg',
-  about: 'Shankari Rajagopal is an atomic physics experimentalist interested in driven systems, measurement, and interactive quantum dynamics. From 2019-2024, she was been a postdoctoral research scholar and Stanford Science Fellow at Stanford University in the group of Monika Schleier-Smith, working on improved coherence and uses of dressed Rydberg interactions in atomic tweezer arrays. She completed her graduate studies in 2019 at the University of California Santa Barbara in the lab of David Weld, studying non-equilibrium dynamics with Bose-Einstein condensates in lattices. Shankari is particularly interested in applications of driven quantum systems and measurement feedback to quantum simulation, optimization, and metrology.<br>
-In her spare time, Shankari enjoys getting outdoors (long-distance running, hiking, biking, climbing), music (live shows, playing, and composing, the latter two very poorly), and meeting as many dogs as possible.',
+  email: 'svraj [at] umich [dot] edu',
+  office: 'Homer A. Neal Lab 4223',
+  lab: 'Homer A. Neal Lab 3214' ,
+  image: 'assets/img/RajagopalSV_photo_oregon.jpg',
+  about: 'Shankari Rajagopal is an atomic physics experimentalist interested in driven systems, measurement, and interactive quantum dynamics. From 2019-2024, she was a postdoctoral research scholar and <a href="https://stanfordsciencefellows.stanford.edu/">Stanford Science Fellow</a> at Stanford University in the group of <a href="https://sites.google.com/stanford.edu/sslab/">Monika Schleier-Smith</a>, working on improved coherence and uses of dressed Rydberg interactions in atomic tweezer arrays. She completed her graduate studies in 2019 at the University of California Santa Barbara in the lab of <a href="https://web.physics.ucsb.edu/~weld/">David Weld</a>, studying non-equilibrium dynamics with Bose-Einstein condensates in lattices. Shankari is particularly interested in applications of driven quantum systems and measurement feedback to quantum simulation, optimization, and metrology.<br><br>
+In her spare time, Shankari enjoys getting outdoors (long-distance running, hiking, biking, climbing), music (live shows, playing, and composing, the latter two very poorly), and <s>stealing</s> meeting as many dogs as possible.',
   url: 'shankari-rajagopal',
 }
+#- {name: 'You! We are looking for graduate students, postdocs, and undergraduates excited about building a new lab and doing experimental quantum science. Please <a href="mailto:svraj@umich.edu">contact Shankari</a> for research opportunities!',
+#  title: 'Researcher',
+#  department: 'Physics & Astronomy',
+#  institution: 'Some University',
+#  institution_address: '1 Main Street, Canada',
+#  phone: '(000) 000-0000',
+#  email: 'hello@university.edu',
+#  office: 'Science Building 505',
+#  image: 'assets/img/lab-technician.jpg',
+#  about: '',
+#  url: 'lab-technician',
+#}
 #- {name: 'Lab Technician',
 #  title: 'Researcher',
 #  department: 'Physics & Astronomy',
@@ -45,12 +57,14 @@ In her spare time, Shankari enjoys getting outdoors (long-distance running, hiki
 #}
 
 courses:
-- {name: 'Winter 2025: PHYS106 Section 001 (Everyday Physics)',
+- {term: "Winter 2025",
+  name: 'PHYS106 Section 001 (Everyday Physics)',
   url: 'quantum-mechanics',
 }
 
 social:
 - {icon: 'github', link: 'https://github.com/rajagopallab'}
+- {icon: 'university', link: 'https://github.com/rajagopallab'}
 #- {icon: 'twitter', link: 'https://twitter.com/paululele'}
 #- {icon: 'instagram', link: 'https://instagram.com/paululele'}
 #- {icon: 'linkedin', link: 'https://www.linkedin.com/in/shankari-rajagopal-3a520015'}

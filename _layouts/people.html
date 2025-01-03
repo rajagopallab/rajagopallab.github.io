@@ -4,19 +4,24 @@ layout: default
 
 {{ content }}
 
-<h3 class="fw-bold border-bottom pb-3 mb-5">People</h3>
+<h3 class="fw-bold border-bottom pb-3 mb-5">people</h3>
 {% for person in site.data.settings.people %}
 <div class="row g-5 mb-5">
-  <div class="col-md-6">
-    <h5>{{ person.name }}</h5>
-    <p>Email: {{ person.email }}</p>
-    <p>Office: {{ person.office }}</p>
+  <div class="col-md-8">
+    <h4>{{ person.name }}</h4>
+    <h5 style=" bold margin:0;">{{ person.title }}</h5>
+    <p style="margin:0;">Email: {{ person.email }}</p>
+    <p style="margin:0;">Office: {{ person.office }}</p>
     <p>Lab: {{ person.lab }}</p>
-    <p>About: {{ person.about }}</p>
-#    <p><a href="{{ site.github.url }}/people/{{ person.url }}">More info</a></p>
+    <h6>About:</h6> <p>{{ person.about }}</p>
+    <!-- <p><a href="{{ site.github.url }}/people/{{ person.url }}">More info</a></p>-->
   </div>
-  <div class="col-md-6">
+  <div class="col-md-4">
     <img src="{{ site.github.url }}/{{ person.image }}" alt="Contact" width="100%">
   </div>
 </div>
 {% endfor %}
+
+<h4 class="pb-3 mb-0">You!</h4>
+We are looking for graduate students, postdocs, and undergraduates excited about building a new lab and doing experimental quantum science together. Please <a href="mailto:svraj@umich.edu">contact Shankari</a> for research opportunities!'
+

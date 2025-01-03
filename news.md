@@ -1,4 +1,4 @@
 ---
-layout: cv
-title: "CV"
+layout: news
+title: "news"
 ---

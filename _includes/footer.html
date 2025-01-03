@@ -1,6 +1,19 @@
 <footer class="pt-5 my-5 text-muted border-top">
   <div class="row">
-    <div class="col-md-6 text-end social-media-icons">
+    <div class="col-8">
+    <p id="myID"></p>
+    <script>
+    var date = new Date(); 
+    var dd = date.getDate();
+    const month = date.toLocaleString('default', { month: 'long' });
+    var yyyy = date.getFullYear();
+    var newDate = month + ' ' + dd + ', ' + yyyy;
+    var newString = 'Last modified by svraj: ' + newDate
+    var p = document.getElementById("myID"); 
+    p.innerHTML = newString;
+    </script>
+    </div>
+    <div class="col text-end social-media-icons">
       {% for item in site.data.settings.social %}
         <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }}"></i></a>
       {% endfor %}
