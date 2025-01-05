@@ -1,23 +1,71 @@
 featured:
 - {name: 'Spin squeezing in ensembles of neutral atoms via Rydberg dressing',
-  author: 'S.V. Rajagopal, J.A. Hines, G.L. Moreau, M.D. Wahrman, N.A. Lewis, M. Schleier-Smith.',
+  author: 'S.V. Rajagopal, J.A. Hines, G.L. Moreau, M.D. Wahrman, N.A. Lewis, O. Marković, M. Schleier-Smith.',
   cite: '<i>Phys. Rev. Lett.</i> <b>131</b>, 063401 (2023).',
   url: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.063401',
 }
 
 index:
 - {name: 'Spin squeezing in ensembles of neutral atoms via Rydberg dressing',
-  author: 'S.V. Rajagopal, J.A. Hines, G.L. Moreau, M.D. Wahrman, N.A. Lewis, M. Schleier-Smith.',
+  author: 'S.V. Rajagopal, J.A. Hines, G.L. Moreau, M.D. Wahrman, N.A. Lewis, O. Marković, M. Schleier-Smith.',
   cite: '<i>Phys. Rev. Lett.</i> <b>131</b>, 063401 (2023).',
   url: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.063401',
 }
-- {name: 'Spin squeezing in ensembles of neutral atoms via Rydberg dressing',
-  author: 'S.V. Rajagopal, J.A. Hines, G.L. Moreau, M.D. Wahrman, N.A. Lewis, M. Schleier-Smith.',
-  cite: '<i>Phys. Rev. Lett.</i> <b>131</b>, 063401 (2023).',
-  url: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.063401',
-}
--{name: 'Number Partitioning with Grover's Algorithm in Central Spin Systems',
-  author: 'G. Anikeeva, O. Markovic, V. Borish, J.A. Hines, S.V. Rajagopal, E.S. Cooper, A. Periwal, A. Safavi-Naeini, E.J. Davis, and M. Schleier-Smith.',
+- {name: 'Number Partitioning with Grovers Algorithm in Central Spin Systems',
+  author: 'G. Anikeeva, O. Marković, V. Borish, J.A. Hines, S.V. Rajagopal, E.S. Cooper, A. Periwal, A. Safavi-Naeini, E.J. Davis, and M. Schleier-Smith.',
   cite: '<i>PRX Quantum</i> <b>2</b>, 020319 (2021).',
   url: 'https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.020319',
+}
+- {name: 'Transverse-Field Ising Dynamics in a Rydberg-Dressed Atomic Gas',
+  author: 'V. Borish, O. Marković, J.A. Hines, S.V. Rajagopal, and M. Schleier-Smith.',
+  cite: '<i>Phys. Rev. Lett.</i> <b>124</b>, 063601 (2020).',
+  url: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.063601',
+}
+- {name: 'Phasonic spectroscopy of a tunable quantum quasicrystal',
+  author: 'S.V. Rajagopal, T. Shimasaki, P.E. Dotti, M. Račiūnas, R. Senaratne, E. Anisimovas, A. Eckardt, and D.M. Weld.',
+  cite: '<i>Phys. Rev. Lett.</i> <b>123</b>, 223201 (2019).',
+  url: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.223201',
+}
+- {name: 'Controlling and characterizing Floquet prethermalization in a driven system',
+  author: 'K. Singh, K.M. Fujiwara, Z.A. Geiger, E.Q. Simmons, M. Lipatov, A. Cao, P.E. Dotti, S.V. Rajagopal, R. Senaratne, T. Shimasaki, M. Heyl, A. Eckardt, and D.M. Weld.',
+  cite: '<i>Phys. Rev. X </i> <b>9</b>, 041021 (2019).',
+  url: 'https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.041021',
+}
+- {name: 'Transport in Floquet-Bloch bands',
+  author: 'K.M. Fujiwara, K. Singh, Z.A. Geiger, R. Senaratne, S.V. Rajagopal, M. Lipatov, and D.M. Weld.',
+  cite: '<i>Phys. Rev. Lett.</i> <b>122</b>, 010402 (2019).',
+  url: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.010402',
+}
+- {name: 'Cold-Atom Quantum Simulation of Ultrafast Dynamics',
+  author: 'R. Senaratne, S.V. Rajagopal, T. Shimasaki, P.E. Dotti, K.M. Fujiwara, K. Singh, Z.A. Geiger, and D.M. Weld.',
+  cite: '<i>Nat. Comm.</i> <b>9</b>, 2065 (2018).',
+  url: 'https://www.nature.com/articles/s41467-018-04556-3',
+}
+- {name: 'Observation and uses of position-space Bloch oscillations in an ultracold gas',
+  author: 'Z.A. Geiger, K.M. Fujiwara, K. Singh, R. Senaratne, S.V. Rajagopal, M. Lipatov, T. Shimasaki, R. Driben, V.V. Konotop, T. Meier, and D.M. Weld',
+  cite: '<i>Phys. Rev. Lett.</i> <b>120</b>, 213201 (2018).',
+  url: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.213201',
+}
+- {name: 'Experimental Realization of a Relativistic Harmonic Oscillator',
+  author: 'K.M. Fujiwara, Z.A. Geiger, K. Singh, R. Senaratne, S.V. Rajagopal, M. Lipatov, T. Shimasaki, and D.M. Weld.',
+  cite: '<i>New J. Phys.</i> <b>20</b>, 063027 (2018).',
+  url: 'https://iopscience.iop.org/article/10.1088/1367-2630/aacb5a',
+}
+- {name: 'Quantum Emulation of Extreme Non-equilibrium Phenomena with Trapped Atoms',
+  author: 'S.V. Rajagopal, K.M. Fujiwara, R. Senaratne, K. Singh, Z.A. Geiger, and D.M. Weld.',
+  cite: '<i>Ann. Phys.</i> <b>529</b>, 1700008 (2017).',
+  url: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.201700008',
+}
+- {name: 'Effusive Atomic Oven Nozzle Design Using an Aligned Microcapillary Array',
+  author: 'R. Senaratne, S.V. Rajagopal, Z. Geiger, K.M. Fujiwara, V. Lebedev, and D.M. Weld.',
+  cite: '<i>Rev. Sci. Instrum.</i> <b>86</b>, 023105 (2015).',
+  url: 'http://scitation.aip.org/content/aip/journal/rsi/86/2/10.1063/1.4907401',
+}
+
+theses:
+- {name: 'Realizing and probing driven quantum systems with ultracold gases.',
+author: 'Shankari V. Rajagopal.',
+school: 'University of California, Santa Barbara',
+year: '2019',
+url: 'https://escholarship.org/uc/item/4bv33703',
 }

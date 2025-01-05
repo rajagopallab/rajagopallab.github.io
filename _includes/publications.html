@@ -1,7 +1,7 @@
 <div class="row g-5 mb-5">
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
-    <h4 class="fw-bold border-bottom pb-3 mb-3">Papers</h4>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">publications</h3>
+    <h4 class="fw-bold border-bottom pb-3 mb-3">papers</h4>
     {% if page.title == "Home" %}
       {% for item in site.data.publications.featured %}
         <p><a href="{{ item.url }}"><b>{{ item.name }}</b><br>{{ item.author }}</a></p>
@@ -11,6 +11,12 @@
         <p><a href="{{ item.url }}"><b>{{ item.name }}</b></a><br>{{ item.author }} {{ item.cite }}</p>
       {% endfor %}
     {% endif %}
-    <!--<h4 class="fw-bold border-bottom pb-3 mb-3 mt-5">Theses</h4>-->
+
+    <h4 class="fw-bold border-bottom pb-3 mb-3 mt-5">theses</h4>
+    {% if page.title != "Home" %}
+      {% for item in site.data.publications.theses %}
+        <p><a href="{{ item.url }}"><b>{{ item.name }}</b></a><br>{{ item.author }} {{ item.school }} ({{ item.year }}).</p>
+      {% endfor %}
+    {% endif %}
   </div>
 </div>

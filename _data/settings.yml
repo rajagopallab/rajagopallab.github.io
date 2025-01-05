@@ -17,7 +17,7 @@ people:
   office: 'Homer A. Neal Lab 4223',
   lab: 'Homer A. Neal Lab 3214' ,
   image: 'assets/img/RajagopalSV_photo_oregon.jpg',
-  about: 'Shankari Rajagopal is an atomic physics experimentalist interested in driven systems, measurement, and interactive quantum dynamics. From 2019-2024, she was a postdoctoral research scholar and <a href="https://stanfordsciencefellows.stanford.edu/">Stanford Science Fellow</a> at Stanford University in the group of <a href="https://sites.google.com/stanford.edu/sslab/">Monika Schleier-Smith</a>, working on improved coherence and uses of dressed Rydberg interactions in atomic tweezer arrays. She completed her graduate studies in 2019 at the University of California Santa Barbara in the lab of <a href="https://web.physics.ucsb.edu/~weld/">David Weld</a>, studying non-equilibrium dynamics with Bose-Einstein condensates in lattices. Shankari is particularly interested in applications of driven quantum systems and measurement feedback to quantum simulation, optimization, and metrology.<br><br>
+  about: 'Shankari Rajagopal is an atomic physics experimentalist interested in driven systems, measurement, and interactive quantum dynamics. From 2019-2024, she was a postdoctoral research scholar and <a href="https://stanfordsciencefellows.stanford.edu/">Stanford Science Fellow</a> at Stanford University in the group of <a href="https://sites.google.com/stanford.edu/sslab/">Monika Schleier-Smith</a>, working on improved coherence and uses of dressed Rydberg interactions in atomic tweezer arrays. She completed her graduate studies in 2019 at the University of California Santa Barbara in the lab of <a href="https://web.physics.ucsb.edu/~weld/">David Weld</a>, building two experiments in a new lab (lithium and strontium!) and then studying non-equilibrium dynamics with Bose-Einstein condensates in lattices. Shankari is particularly interested in applications of driven quantum systems and measurement feedback to quantum simulation, optimization, and metrology.<br><br>
 In her spare time, Shankari enjoys getting outdoors (long-distance running, hiking, biking, climbing), music (live shows, playing, and composing, the latter two very poorly), and <s>stealing</s> meeting as many dogs as possible.',
   url: 'shankari-rajagopal',
 }
@@ -71,12 +71,12 @@ social:
 
 contacts:
 - {name: 'Shankari Rajagopal',
-  title: 'Professor',
-  department: 'Physics & Astronomy',
-  institution: 'Some University',
-  institution_address: '1 Main Street, Canada',
-  phone: '(000) 000-0000',
+  title: 'Assistant Professor',
+  department: 'Physics',
+  institution: 'University of Michigan',
+  institution_address: '450 Church Street, Ann Arbor, MI 48109',
+  phone: '(775) 225-7355',
   email: 'hello@university.edu',
-  office: 'Science Building 505',
-  image: 'assets/img/contact.jpg',
+  office: 'Homer A. Neal Lab 4223',
+  image: 'assets/img/RajagopalSV_photo_oregon.jpg',
 }

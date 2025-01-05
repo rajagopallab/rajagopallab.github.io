@@ -1,4 +1,4 @@
 url: "https://rajagopallab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "Rajagopal Lab" # the name of your site, e.g. ACME Corp.
-description: "Rajagopal Research Lab at the University of Michigan"
+title: "Rajagopal Research Lab" # the name of your site, e.g. ACME Corp.
+description: "Quantum Control and Feedback at the University of Michigan"
