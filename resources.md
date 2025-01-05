@@ -187,10 +187,10 @@ coming soon
 <a name="ack_land"></a>
 #### Land acknowledgment
 
-<p> This lab sits on the campus of the University of Michigan. I acknowledge that The University of Michigan, named for Michigami, the world’s largest freshwater system and located in the Huron River watershed, was formed and has grown through connections with the land stewarded by Niswi Ishkodewan Anishinaabeg: The Three Fires People who are the Ojibwe, Odawa, and Boodewadomi along with their neighbors the Seneca, Delaware, Shawnee, and Wyandot nations. Today we benefit from access to land and resources originally acquired through ​the Treaty at the Foot of the Rapids, a coercive and unfulfilled treaty which promised reciprocity, mutual respect, and access to education. 
-<br>
-I acknowledge that the historical origins and present location of the University of Michigan were made possible by indigenous people’s cession of lands under coercive treaties common in the colonization and expansion of the United States. I also acknowledge that this country would not exist if it wasn't for the free, enslaved labor of Black people. We honor the legacy of the African diaspora and Black life, knowledge and skills stolen due to violence and white supremacy. I am committed to supporting underrepresented communities at the University of Michigan however I am able.
-</p>
+This lab sits on the campus of the University of Michigan. I acknowledge that The University of Michigan, named for Michigami, the world’s largest freshwater system and located in the Huron River watershed, was formed and has grown through connections with the land stewarded by Niswi Ishkodewan Anishinaabeg: The Three Fires People who are the Ojibwe, Odawa, and Boodewadomi along with their neighbors the Seneca, Delaware, Shawnee, and Wyandot nations. Today we benefit from access to land and resources originally acquired through ​the Treaty at the Foot of the Rapids, a coercive and unfulfilled treaty which promised reciprocity, mutual respect, and access to education. 
+
+I acknowledge that the historical origins and present location of the University of Michigan were made possible by indigenous people’s cession of lands under coercive treaties common in the colonization and expansion of the United States. I also acknowledge that this country would not exist if it wasn't for the free, enslaved labor of Black people. I honor the legacy of the African diaspora and Black life, knowledge and skills stolen due to violence and white supremacy. I am committed to supporting underrepresented communities at the University of Michigan however I am able.
+
 
 <a name="ack_money"></a>
 #### Funding acknowledgment
