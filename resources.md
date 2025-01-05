@@ -197,14 +197,10 @@ I acknowledge that the historical origins and present location of the University
 
 The work carried out in this laboratory is currently supported by
 
-<ul id="grants" class="padding:20px">
-    <li style="margin-bottom: 3px">
-        <a href="">The University of Michigan College of Literature, Science, and the Arts</a>
-    </li>
-        <li style="margin-bottom: 3px">
-        <a href="">The University of Michigan Department of Physics</a>
-    </li>
-</ul>
+
+- <a href="">The University of Michigan College of Literature, Science, and the Arts</a>
+- <a href="">The University of Michigan Department of Physics</a>
+
 
 <a name="ack_website"></a>
 #### Website acknowledgment
@@ -218,16 +214,15 @@ Experimental AMO labs are collaborative places. Part of the fun of joining one i
 
 To that end, it is my hope that anyone joining my lab will contribute to a positive working environment. My expectations from students and postdocs are the following. Note that I will not ask you to know how to implement all of these skills upon arriving in the lab, I merely ask that you have the openness to developing these skills and a positive attitude.
 
-<ul>
-    <li>Expressing mutual respect</li>
-    <li>Listening actively to others' feedback</li>
-    <li>Behaving and communicating in a professional manner</li>
-    <li>Learning to productively address conflict when it inevitably arises. Passive aggression heavily discouraged.</li>
-    <li>Asking others for help</li>
-    <li>Offering help when asked</li>
-    <li>Learning to split up work and resources effectively</li>
-    <li>Listening to, and considering, ideas no matter where they come from. An undergraduate's voice should be valued just as a PI's is.</li>
-    <li>The only boilerplate part of this: treating everyone in the lab as an equal, regardless of age, race, ethnicity, sexual orientation, gender identity, gender expression, marital status, nationality, political affiliation, ability status, or educational background. Everyone should have access to the exploration of science without fear of harassment or discrimination, and they will not be tolerated.
-</ul>
+
+- Expressing mutual respect
+- Listening actively to others' feedback
+- Behaving and communicating in a professional manner
+- Learning to productively address conflict when it inevitably arises. Passive aggression heavily discouraged.
+- Asking others for help
+- Offering help when asked
+- Learning to split up work and resources effectively
+- Listening to, and considering, ideas no matter where they come from. An undergraduate's voice should be valued just as a PI's is.
+- The only boilerplate part of this: treating everyone in the lab as an equal, regardless of age, race, ethnicity, sexual orientation, gender identity, gender expression, marital status, nationality, political affiliation, ability status, or educational background. Everyone should have access to the exploration of science without fear of harassment or discrimination, and they will not be tolerated.
 
 We are all students of physics in this space, and it needs to be a place where we can all feel comfortable expressing what we do and do not know without fear of judgment, and with a hope of learning more about the world.
