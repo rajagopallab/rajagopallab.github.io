@@ -1,0 +1,7 @@
+<div class="news_sidebar sidebar">
+  <ul class="news_list smaller">
+    {% for post in site.posts %}
+      <li{% if forloop.last %} class="last"{% endif %}>{{ post.title }}</li>
+    {% endfor %}
+  </ul>
+</div>

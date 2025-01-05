@@ -1,11 +1,16 @@
 <header class="d-flex flex-column flex-md-row align-items-center pb-3 mb-5 border-bottom">
-  <div>
-    <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
-      <span class="fs-4 fw-bold">{{ site.title }}</span>
-    </a>
-    <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
-      <span>{{ site.description }}</span>
-    </a>
+  <div class="row">
+    <div class="col-md-3">
+      <img src="{{ site.github.url }}/assets/img/schematic_cropped_logo.png" alt="Home" width="130px">
+    </div>
+    <div class="col">
+      <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
+        <span class="fs-4 fw-bold">{{ site.title }}</span>
+      </a>
+      <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
+        <span>{{ site.description }}</span>
+      </a>
+    </div>
   </div>
   <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
     {% for item in site.data.settings.menu %}

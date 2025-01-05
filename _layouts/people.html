@@ -10,9 +10,10 @@ layout: default
   <div class="col-md-8">
     <h4>{{ person.name }}</h4>
     <h5 style=" bold margin:0;">{{ person.title }}</h5>
-    <p style="margin:0;">Email: {{ person.email }}</p>
-    <p style="margin:0;">Office: {{ person.office }}</p>
-    <p>Lab: {{ person.lab }}</p>
+    <p style="margin:0;"><i class="fa fa-envelope"></i> &nbsp; {{ person.email }}</p>
+    <p style="margin:0;"><i class="fab fa-google"></i> &nbsp; <a href="https://scholar.google.com/citations?user=hNaF_u0AAAAJ&hl=en">Google Scholar</a></p>
+    <p style="margin:0;"><i class="fas fa-briefcase"></i> &nbsp; {{ person.office }}</p>
+    <p><i class="fas fa-atom"></i> &nbsp; {{ person.lab }}</p>
     <h6>About:</h6> <p>{{ person.about }}</p>
     <!-- <p><a href="{{ site.github.url }}/people/{{ person.url }}">More info</a></p>-->
   </div>

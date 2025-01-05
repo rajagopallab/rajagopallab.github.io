@@ -1,12 +1,23 @@
 featured:
 - {name: 'Spin squeezing in ensembles of neutral atoms via Rydberg dressing',
-  author: 'S Rajagopal, J Hines, G Moreau, M Wahrman, N Lewis, M Schleier-Smith',
-  url: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hNaF_u0AAAAJ&sortby=pubdate&citation_for_view=hNaF_u0AAAAJ:IWHjjKOFINEC'
+  author: 'S.V. Rajagopal, J.A. Hines, G.L. Moreau, M.D. Wahrman, N.A. Lewis, M. Schleier-Smith.',
+  cite: '<i>Phys. Rev. Lett.</i> <b>131</b>, 063401 (2023).',
+  url: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.063401',
 }
-
 
 index:
 - {name: 'Spin squeezing in ensembles of neutral atoms via Rydberg dressing',
-  author: 'S Rajagopal, J Hines, G Moreau, M Wahrman, N Lewis, M Schleier-Smith',
-  url: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hNaF_u0AAAAJ&sortby=pubdate&citation_for_view=hNaF_u0AAAAJ:IWHjjKOFINEC'
+  author: 'S.V. Rajagopal, J.A. Hines, G.L. Moreau, M.D. Wahrman, N.A. Lewis, M. Schleier-Smith.',
+  cite: '<i>Phys. Rev. Lett.</i> <b>131</b>, 063401 (2023).',
+  url: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.063401',
+}
+- {name: 'Spin squeezing in ensembles of neutral atoms via Rydberg dressing',
+  author: 'S.V. Rajagopal, J.A. Hines, G.L. Moreau, M.D. Wahrman, N.A. Lewis, M. Schleier-Smith.',
+  cite: '<i>Phys. Rev. Lett.</i> <b>131</b>, 063401 (2023).',
+  url: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.063401',
+}
+-{name: 'Number Partitioning with Grover's Algorithm in Central Spin Systems',
+  author: 'G. Anikeeva, O. Markovic, V. Borish, J.A. Hines, S.V. Rajagopal, E.S. Cooper, A. Periwal, A. Safavi-Naeini, E.J. Davis, and M. Schleier-Smith.',
+  cite: '<i>PRX Quantum</i> <b>2</b>, 020319 (2021).',
+  url: 'https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.020319',
 }

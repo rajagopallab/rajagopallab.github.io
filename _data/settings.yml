@@ -63,8 +63,8 @@ courses:
 }
 
 social:
-- {icon: 'github', link: 'https://github.com/rajagopallab'}
-- {icon: 'university', link: 'https://github.com/rajagopallab'}
+- {icon: 'fab fa-github', link: 'https://github.com/rajagopallab'}
+- {icon: 'fa fa-university', link: 'https://lsa.umich.edu/physics/people/faculty/shankari-rajagopal.html'}
 #- {icon: 'twitter', link: 'https://twitter.com/paululele'}
 #- {icon: 'instagram', link: 'https://instagram.com/paululele'}
 #- {icon: 'linkedin', link: 'https://www.linkedin.com/in/shankari-rajagopal-3a520015'}
