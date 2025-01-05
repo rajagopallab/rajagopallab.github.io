@@ -214,7 +214,7 @@ This website is based on the <a href="https://jekyll-themes.com/LeNPaul/academic
 <a name="labcc"></a>
 ## Rajagopal Lab Code of Conduct
 
-AMO experimental labs are collaborative places. Part of the fun of joining one is the way you get to work with others in depth, bouncing ideas back and forth, and you often spend more times with your labmates than you do with anyone else in your life. The times in my career when I have had the most productive and joyous scientific experiences have come when the lab has been a place where everyone could come in and have fun doing science together. It is very important to me that my lab is such an environment, where creativity and curiosity are fostered and encouraged within the process of doing research together.
+Experimental AMO labs are collaborative places. Part of the fun of joining one is the way you get to work with others in depth, bouncing ideas back and forth, and you often spend more times with your labmates than you do with anyone else in your life. The times in my career when I have had the most productive and joyous scientific experiences have come when the lab has been a place where everyone could come in and have fun doing science together. It is very important to me that my lab is such an environment, where creativity and curiosity are fostered and encouraged within the process of doing research together.
 
 To that end, it is my hope that anyone joining my lab will contribute to a positive working environment. My expectations from students and postdocs are the following. Note that I will not ask you to know how to implement all of these skills upon arriving in the lab, I merely ask that you have the openness to developing these skills and a positive attitude.
 
