@@ -8,7 +8,7 @@ title: "Research"
 </div>
 <div class="col-md-8">-->
 
-Our lab is currently building its first experiment, which will comprise a locally interacting cesium Rydberg atom array interacting with photonic modes of a free-space Fabry-Perot optical cavity. This system will provide access to both local entanglement (from Rydberg interactions) as well as global entanglement, allowing us to study their interplay. Motivated by recent theoretical and experimental advancements in understanding the impact of quantum measurement, we are also interested in monitored systems and the impact of nonunitary dynamics of quantum evolution. To this end, the experimental platform we are building should afford access to weak global measurement from the cavity, as well as projective local measurement from a combination of tweezer light, the optical cavity, and fluorescence measurement.
+<!--Our lab is currently building its first experiment, which will comprise a locally interacting cesium Rydberg atom array interacting with photonic modes of a free-space Fabry-Perot optical cavity. This system will provide access to both local entanglement (from Rydberg interactions) as well as global entanglement, allowing us to study their interplay. Motivated by recent theoretical and experimental advancements in understanding the impact of quantum measurement, we are also interested in monitored systems and the impact of nonunitary dynamics of quantum evolution. To this end, the experimental platform we are building should afford access to weak global measurement from the cavity, as well as projective local measurement from a combination of tweezer light, the optical cavity, and fluorescence measurement.-->
 
 Some scientific ideas we are excited to pursue in the upcoming years include:
 
