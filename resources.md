@@ -161,7 +161,7 @@ Please note that these are largely only available to US citizens, dual citizens,
     <li> Fellowships through UM </li>
         <ul id="gradFellowshipsUM" class="padding:20px">
             <li style="margin-bottom: 3px">
-                The UM Physics Department offers some fellowships to incoming graduate students, and makes some available for current graduate students. You can find a list <a href="">here</a>.
+                The UM Physics Department offers some fellowships to incoming graduate students, and makes some available for current graduate students. You can find a list <a href="https://lsa.umich.edu/physics/graduate-students/program-details/scholarships-and-awards.html">here</a>.
             </li>
             <li style="margin-bottom: 3px">
                 The <a href="https://research.umich.edu/quantum/">UM Quantum Research Institute</a> plans to begin to offer graduate fellowships- watch that space.
