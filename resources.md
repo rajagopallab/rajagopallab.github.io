@@ -99,7 +99,7 @@ If you are interested in pursuing graduate school in a STEM field, most programs
         <a href="https://ndseg.sysplus.com/">National Defense Science and Engineering Graduate Fellowship</a> - Better known as NDSEG. Can apply as a senior undergraduate, first year, and second year of graduate school.
     </li>
     <li style="margin-bottom: 3px">
-        <a href="">Department of Energy Computations Science Graduate Fellowship</a> - Better known as DOE CSGF. Can apply as a senior undergraduate and first year in graduate school.
+        <a href="https://www.energy.gov/doe-stem/events/doe-computational-science-graduate-fellowship-doe-csgf">Department of Energy Computations Science Graduate Fellowship</a> - Better known as DOE CSGF. Can apply as a senior undergraduate and first year in graduate school.
     </li>
     <li style="margin-bottom: 3px">
         <a href="https://lsa.umich.edu/onsf/scholarships/future-graduate-program-career-experience/churchill-scholarship.html">Churchill Scholarship</a> - A 1-year master's program in the UK between undergraduate and graduate studies. Must be nominated by UM.
@@ -155,7 +155,7 @@ Please note that these are largely only available to US citizens, dual citizens,
                 <a href="https://ndseg.sysplus.com/">National Defense Science and Engineering Graduate Fellowship</a> - Better known as NDSEG. Can apply as a senior undergraduate, first year, and second year of graduate school.
             </li>
             <li style="margin-bottom: 3px">
-                <a href="">Department of Energy Computations Science Graduate Fellowship</a> - Better known as DOE CSGF. Can apply as a senior undergraduate and first year in graduate school.
+                <a href="https://www.energy.gov/doe-stem/events/doe-computational-science-graduate-fellowship-doe-csgf">Department of Energy Computations Science Graduate Fellowship</a> - Better known as DOE CSGF. Can apply as a senior undergraduate and first year in graduate school.
             </li>
         </ul>
     <li> Fellowships through UM </li>
@@ -197,8 +197,8 @@ I acknowledge that the historical origins and present location of the University
 
 The work carried out in this laboratory is currently supported by
 
-- <a href="">The University of Michigan College of Literature, Science, and the Arts</a>
-- <a href="">The University of Michigan Department of Physics</a>
+- <a href="https://lsa.umich.edu/">The University of Michigan College of Literature, Science, and the Arts</a>
+- <a href="https://lsa.umich.edu/physics">The University of Michigan Department of Physics</a>
 
 
 <a name="ack_website"></a>
