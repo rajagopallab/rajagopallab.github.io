@@ -5,7 +5,7 @@
         <img src="{{ site.github.url }}/assets/img/schematic_cropped_logo.png" alt="Home" width="130px">
       </a>
     </div>
-    <div class="col">
+    <div class="col-sm-auto">
       <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
         <span class="fs-4 fw-bold">{{ site.title }}</span>
       </a>
@@ -14,7 +14,7 @@
       </a>
     </div>
   </div>
-  <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+  <nav class="navbar navbar-expand-lg justify-content-end mt-2 ms-md-auto">
     {% for item in site.data.settings.menu %}
       <a class="me-3 py-2 text-decoration-none" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
     {% endfor %}
