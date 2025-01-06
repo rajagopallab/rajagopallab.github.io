@@ -10,6 +10,7 @@ layout: default
   <div class="col-md-8">
     <h4>{{ person.name }}</h4>
     <h5 style=" bold margin:0;">{{ person.title }}</h5>
+    <h5 style=" bold margin:0;">{{ person.pronouns }}</h5>
     <p style="margin:0;"><i class="fa fa-envelope"></i> &nbsp; {{ person.email }}</p>
     <p style="margin:0;"><i class="fab fa-google"></i> &nbsp; <a href="https://scholar.google.com/citations?user=hNaF_u0AAAAJ&hl=en">Google Scholar</a></p>
     <p style="margin:0;"><i class="fas fa-briefcase"></i> &nbsp; {{ person.office }}</p>
@@ -23,6 +24,8 @@ layout: default
 </div>
 {% endfor %}
 
-<h4 class="pb-3 mb-0">You!</h4>
+<audio id="player" src="{{ site.github.url }}/assets/sound/you.mp3"></audio>
+
+<h4 class="pb-3 mb-0"><a onclick="document.getElementById('player').play()">You!</a></h4>
 We are looking for graduate students, postdocs, and undergraduates excited about building a new lab and doing experiments in quantum science together. Please <a href="mailto:svraj@umich.edu">contact Shankari</a> for research opportunities!'
 

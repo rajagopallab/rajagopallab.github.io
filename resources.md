@@ -69,10 +69,10 @@ There are lots of other groups at the University of Michigan doing really cool a
     <li>Opportunities at UM Physics</li>
         <ul  id="researchUM" class="padding:20px"> 
             <li style="margin-bottom: 3px">
-                <a href="https://reu.physics.lsa.umich.edu/">National Science Foundation Research Experiences for Undergraduates</a> - AKA NSF REU.
+                <a href="https://reu.physics.lsa.umich.edu/">National Science Foundation Research Experiences for Undergraduates</a> - better known as NSF REU.
             </li>
             <li style="margin-bottom: 3px">
-                <a href="https://lsa.umich.edu/urop">UM Undergraduate Research Opportunities Program</a> - AKA UROP. Can apply for different semesters.
+                <a href="https://lsa.umich.edu/urop">UM Undergraduate Research Opportunities Program</a> - better known as UROP. Can apply for different semesters.
             </li>
             <li style="margin-bottom: 3px">
                 <a href="https://lsa.umich.edu/content/dam/physics-assets/physics-documents/PHYSICS%20415%20Updated.pdf">PHYSICS 415</a> - Course in independent study. Please contact Shankari if you would like to pursue research during a school semester.
@@ -89,7 +89,7 @@ There are lots of other groups at the University of Michigan doing really cool a
 <a name="undergrad_fellowships"></a>
 #### Fellowships for prospective graduate school
 
-If you are interested in pursuing graduate school in a STEM field, most programs will pay your tuition as well as a salary while you a re a student, so you should not need a fellowship. However, they are nice to have- independent funding often improves your freedom in graduate school.
+If you are interested in pursuing graduate school in a STEM field, most programs will pay your tuition as well as a salary while you are a student, so you should not need a fellowship. However, they are nice to have - independent funding often improves your freedom in graduate school.
 
 <ul id="gradFellowshipsOther" class="padding:20px">
     <li style="margin-bottom: 3px">
@@ -197,7 +197,6 @@ I acknowledge that the historical origins and present location of the University
 
 The work carried out in this laboratory is currently supported by
 
-
 - <a href="">The University of Michigan College of Literature, Science, and the Arts</a>
 - <a href="">The University of Michigan Department of Physics</a>
 
@@ -210,9 +209,9 @@ This website is based on the <a href="https://jekyll-themes.com/LeNPaul/academic
 <a name="labcc"></a>
 ## Rajagopal Lab Code of Conduct
 
-Experimental AMO labs are collaborative places. Part of the fun of joining one is the way you get to work with others in depth, bouncing ideas back and forth, and you often spend more times with your labmates than you do with anyone else in your life. The times in my career when I have had the most productive and joyous scientific experiences have come when the lab has been a place where everyone could come in and have fun doing science together. It is very important to me that my lab is such an environment, where creativity and curiosity are fostered and encouraged within the process of doing research together.
+Experimental AMO labs are collaborative places. Part of the fun of joining one is the way you get to work with others intensely, bouncing ideas back and forth, and you often spend more time with your labmates than you do with anyone else in your life. The times in my career when I have had the most productive and joyous scientific experiences have come when the lab has been a place where everyone could come in and have fun doing science together. It is very important to me that my lab is such an environment, where creativity and curiosity are fostered and encouraged within the process of doing research together.
 
-To that end, it is my hope that anyone joining my lab will contribute to a positive working environment. My expectations from students and postdocs are the following. Note that I will not ask you to know how to implement all of these skills upon arriving in the lab, I merely ask that you have the openness to developing these skills and a positive attitude.
+To that end, it is my hope that anyone joining my lab will contribute to a positive working environment. My expectations from students and postdocs are the following. You do not have to know how to implement all of these skills upon arriving in the lab, I merely ask that you have the openness to developing these skills and a positive attitude.
 
 
 - Expressing mutual respect
@@ -220,9 +219,9 @@ To that end, it is my hope that anyone joining my lab will contribute to a posit
 - Behaving and communicating in a professional manner
 - Learning to productively address conflict when it inevitably arises. Passive aggression heavily discouraged.
 - Asking others for help
-- Offering help when asked
+- Offering what help you can when asked
 - Learning to split up work and resources effectively
 - Listening to, and considering, ideas no matter where they come from. An undergraduate's voice should be valued just as a PI's is.
 - The only boilerplate part of this: treating everyone in the lab as an equal, regardless of age, race, ethnicity, sexual orientation, gender identity, gender expression, marital status, nationality, political affiliation, ability status, or educational background. Everyone should have access to the exploration of science without fear of harassment or discrimination, and they will not be tolerated.
 
-We are all students of physics in this space, and it needs to be a place where we can all feel comfortable expressing what we do and do not know without fear of judgment, and with a hope of learning more about the world.
+We are all students of physics in this space, and it needs to be a place where we can all feel comfortable expressing what we do and do not understand without fear of judgment, and with a hope of learning more about the world.
