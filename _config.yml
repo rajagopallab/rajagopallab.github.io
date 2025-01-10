@@ -2,3 +2,6 @@ url: "https://rajagopallab.github.io" # the base hostname & protocol for your si
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Rajagopal Lab" # the name of your site, e.g. ACME Corp.
 description: "Quantum Control and Feedback at the University of Michigan"
+
+# Google Analytics
+google_analytics: G-8W0BQNZV1C
