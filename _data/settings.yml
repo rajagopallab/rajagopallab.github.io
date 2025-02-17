@@ -8,7 +8,7 @@ menu:
 
 people:
 - {name: 'Shankari Rajagopal',
-  title: 'Assistant Professor of Physics',
+  title: 'Harold C. Early Physics Early Career Professor, Assistant Professor of Physics',
   pronouns: 'she/her',
   department: 'Physics',
   institution: 'University of Michigan',
@@ -18,6 +18,7 @@ people:
   office: 'Homer A. Neal Lab 4223',
   lab: 'Homer A. Neal Lab 3214' ,
   image: 'assets/img/RajagopalSV_photo_oregon.jpg',
+  cv: 'assets/cvs/20250217__SVR_CV.pdf',
   about: 'Shankari Rajagopal is an atomic physics experimentalist interested in driven systems, measurement, and interactive quantum dynamics. From 2019-2024, she was a postdoctoral research scholar and <a href="https://stanfordsciencefellows.stanford.edu/">Stanford Science Fellow</a> at Stanford University in the group of <a href="https://sites.google.com/stanford.edu/sslab/">Monika Schleier-Smith</a>, working on improved coherence and uses of dressed Rydberg interactions in atomic tweezer arrays. She completed her graduate studies in 2019 at the University of California Santa Barbara in the lab of <a href="https://web.physics.ucsb.edu/~weld/">David Weld</a>, building two experiments in a new lab (lithium and strontium!) and then studying non-equilibrium dynamics with Bose-Einstein condensates in lattices. Shankari is particularly interested in applications of driven quantum systems and measurement feedback to quantum simulation, optimization, and metrology.<br><br>
 In her spare time, Shankari enjoys getting outdoors (long-distance running, hiking, biking, climbing, gardening), music (live shows, playing, and composing, the latter two very poorly), and <s>stealing</s> meeting as many dogs as possible.',
   url: 'shankari-rajagopal',
