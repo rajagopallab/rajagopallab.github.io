@@ -6,7 +6,7 @@ menu:
 - {name: 'courses', url: '/courses'}
 - {name: 'resources', url: '/resources'}
 
-people:
+researchers:
 - {name: 'Shankari Rajagopal',
   title: 'Harold C. Early Physics Early Career Professor, Assistant Professor of Physics',
   pronouns: 'she/her',
@@ -23,21 +23,24 @@ people:
 In her spare time, Shankari enjoys getting outdoors (long-distance running, hiking, biking, climbing, gardening), music (live shows, playing, and composing, the latter two very poorly), and <s>stealing</s> meeting as many dogs as possible.',
   url: 'shankari-rajagopal',
 }
-- {name: 'Shankari Rajagopal 2',
-  title: 'Harold C. Early Physics Early Career Professor, Assistant Professor of Physics',
-  pronouns: 'she/her',
+
+gs:
+- {name: 'Liam Daly',
+  title: 'Graduate Student',
+  pronouns: 'he/him',
   department: 'Physics',
   institution: 'University of Michigan',
   institution_address: '450 Church Street, Ann Arbor, MI 48109',
   phone: '(775) 225-7355',
-  email: 'svraj [at] umich [dot] edu',
-  office: 'Homer A. Neal Lab 4223',
+  email: 'liamdaly [at] umich [dot] edu',
+  office: 'Homer A. Neal lab',
   lab: 'Homer A. Neal Lab 3214' ,
-  image: 'assets/img/RajagopalSV_photo_oregon.jpg',
-  cv: 'assets/cvs/20250217__SVR_CV.pdf',
-  about: 'Shankari Rajagopal is an atomic physics experimentalist interested in driven systems, measurement, and interactive quantum dynamics. From 2019-2024, she was a postdoctoral research scholar and <a href="https://stanfordsciencefellows.stanford.edu/">Stanford Science Fellow</a> at Stanford University in the group of <a href="https://sites.google.com/stanford.edu/sslab/">Monika Schleier-Smith</a>, working on improved coherence and uses of dressed Rydberg interactions in atomic tweezer arrays. She completed her graduate studies in 2019 at the University of California Santa Barbara in the lab of <a href="https://web.physics.ucsb.edu/~weld/">David Weld</a>, building two experiments in a new lab (lithium and strontium!) and then studying non-equilibrium dynamics with Bose-Einstein condensates in lattices. Shankari is particularly interested in applications of driven quantum systems and measurement feedback to quantum simulation, optimization, and metrology.<br><br>
-In her spare time, Shankari enjoys getting outdoors (long-distance running, hiking, biking, climbing, gardening), music (live shows, playing, and composing, the latter two very poorly), and <s>stealing</s> meeting as many dogs as possible.',
-  url: 'shankari-rajagopal',
+  image: 'assets/img/LiamDaly-Website-Picture.jpg',
+  about: 'Liam is a first year physics graduate student at the University of Michigan. 
+  He earned his B.S. in Physics from the University of North Texas in 2024, where he worked in the lab of Jens Neu on THz-Time Domain Spectroscopy. 
+  In 2023, he participated in the University of Michigan's NSF REU program, working with Rachel Goldman's group on simulations of carrier concentration in submonolayer quantum dots. 
+  Outside the lab, Liam enjoys playing stringed instruments, hiking, kayaking, and both watching and learning how to play hockey.',
+  url: 'liam-daly',
 }
 #- {name: 'Lab Technician',
 #  title: 'Researcher',

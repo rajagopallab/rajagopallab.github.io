@@ -5,7 +5,7 @@ layout: default
 {{ content }}
 
 <h3 class="fw-bold border-bottom pb-3 mb-5">people</h3>
-{% for person in site.data.settings.people %}
+{% for person in site.data.settings.researchers %}
 <div class="row g-5 mb-5">
   <div class="col-md-8">
     <h4>{{ person.name }}</h4>
@@ -14,6 +14,25 @@ layout: default
     <p style="margin:0;"><i class="fa fa-envelope"></i> &nbsp; {{ person.email }}</p>
     <p style="margin:0;"><i class="fas fa-external-link-alt"></i> &nbsp; <a href="{{ site.github.url }}/{{ person.cv }}" target="_blank">CV</a></p>
     <p style="margin:0;"><i class="fab fa-google"></i> &nbsp; <a href="https://scholar.google.com/citations?user=hNaF_u0AAAAJ&hl=en">Google Scholar</a></p>
+    <p style="margin:0;"><i class="fas fa-briefcase"></i> &nbsp; {{ person.office }}</p>
+    <p><i style="font-size:18" class="fas fa-atom"></i> &nbsp; {{ person.lab }}</p>
+    <h6>About:</h6> <p>{{ person.about }}</p>
+    <!-- <p><a href="{{ site.github.url }}/people/{{ person.url }}">More info</a></p>-->
+  </div>
+  <div class="col-md-4">
+    <img src="{{ site.github.url }}/{{ person.image }}" alt="Contact" width="100%">
+  </div>
+</div>
+{% endfor %}
+
+{% for person in site.data.settings.gs %}
+<div class="row g-5 mb-5">
+  <div class="col-md-8">
+    <h4>{{ person.name }}</h4>
+    <h6 style=" bold margin:0;">{{ person.title }}</h5>
+    <h6 style=" bold margin:0;">{{ person.pronouns }}</h5>
+    <p style="margin:0;"><i class="fa fa-envelope"></i> &nbsp; {{ person.email }}</p>
+    <p style="margin:0;"><i class="fab fa-linkedin-in"></i> &nbsp; <a href="https://www.linkedin.com/in/liamdaly100/">LinkedIn</a></p>
     <p style="margin:0;"><i class="fas fa-briefcase"></i> &nbsp; {{ person.office }}</p>
     <p><i style="font-size:18" class="fas fa-atom"></i> &nbsp; {{ person.lab }}</p>
     <h6>About:</h6> <p>{{ person.about }}</p>
