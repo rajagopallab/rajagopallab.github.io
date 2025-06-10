@@ -33,7 +33,7 @@ layout: default
     <h6 style=" bold margin:0;">Department: {{ person.department }}</h5>
     <h6 style=" bold margin:0;">{{ person.pronouns }}</h5>
     <p style="margin:0;"><i class="fa fa-envelope"></i> &nbsp; {{ person.email }}</p>
-    <p style="margin:0;"><i class="fab fa-linkedin-in"></i> &nbsp; <a href="https://www.linkedin.com/in/liamdaly100/">LinkedIn</a></p>
+    <p style="margin:0;"><i class="fab fa-linkedin-in"></i> &nbsp; <a href="{{ person.website }}">LinkedIn</a></p>
     <p style="margin:0;"><i class="fas fa-briefcase"></i> &nbsp; {{ person.office }}</p>
     <p><i style="font-size:18" class="fas fa-atom"></i> &nbsp; {{ person.lab }}</p>
     <h6>About:</h6> <p>{{ person.about }}</p>
@@ -50,7 +50,7 @@ layout: default
   <div class="col-md-8">
     <h4>{{ person.name }}</h4>
     <h6 style=" bold margin:0;">{{ person.title }}</h5>
-    <h6 style=" bold margin:0;">Major(s): {{ person.major }}, minor(s): {{ person.minor }}</h5>
+    <h6 style=" bold margin:0;">Major(s): {{ person.major }}, Minor(s): {{ person.minor }}</h5>
     <h6 style=" bold margin:0;">{{ person.pronouns }}</h5>
     <p style="margin:0;"><i class="fa fa-envelope"></i> &nbsp; {{ person.email }}</p>
     <p><i style="font-size:18" class="fas fa-atom"></i> &nbsp; {{ person.lab }}</p>

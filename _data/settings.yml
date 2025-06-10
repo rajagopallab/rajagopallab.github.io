@@ -37,6 +37,22 @@ gs:
   image: 'assets/img/LiamDaly-Website-Picture.jpg',
   about: 'Liam is a first year physics graduate student at the University of Michigan. He earned his B.S. in Physics from the University of North Texas in 2024, where he worked in the lab of Jens Neu on THz-Time Domain Spectroscopy. In 2023, he participated in the University of Michigan NSF REU program, working with the Goldman group on simulations of carrier concentration in submonolayer quantum dots. Outside the lab, Liam enjoys playing stringed instruments, hiking, kayaking, and both watching and learning how to play hockey.',
   url: 'liam-daly',
+  website: 'https://www.linkedin.com/in/liamdaly100/',
+}
+- {name: 'Riva Jangra',
+  title: 'Visiting Researcher',
+  pronouns: 'she/her',
+  department: 'Physics',
+  institution: 'Dartmouth College, Perimeter Institute',
+  institution_address: '6127 Wilder Laboratory Hanover, NH 03755-3528',
+  phone: '7752257355',
+  email: 'riva.jangra.GR [at] umich [dot] edu',
+  office: 'Homer A. Neal Lab',
+  lab: 'Homer A. Neal Lab 3214' ,
+  image: 'assets/img/rivajangra.png',
+  about: 'Riva is a visiting researcher from the Perimeter Institute who will begin her PhD in physics at Dartmouth College in Fall 2025. Over the past year she’s helped build the atomic-level compiler infrastructure for Professor Rajibul Islam’s trapped-ion quantum computer, explored AI applications in Celestial Holography with Professor Sabrina Pasterski, and most recently worked on topological graph theoretic applications for superconducting qubits with Professor Andrew Houck’s lab. She’s excited to dive into the guts of quantum control systems and is passionate about experimentally verifying theoretical work. If she’s not at the lab, you’ll find Riva at a pottery wheel, training Brazilian jiu-jitsu, devouring horror novels, or skiff sailing!',
+  url: 'riva-jangra',
+  website: 'https://www.linkedin.com/in/riva-jangra-36b83928b/?originalSubdomain=ca',
 }
 
 ug:
@@ -50,8 +66,8 @@ ug:
   phone: '(775) 225-7355',
   email: 'tunght [at] umich [dot] edu',
   lab: 'Homer A. Neal Lab 3214' ,
-  image: 'assets/img/Portrait_Placeholder.png',
-  about: 'Coming soon',
+  image: 'assets/img/hsutingtung.jpg',
+  about: 'Hsu Ting is a junior majoring in Physics and minoring in Computer Science at the University of Michigan, particularly interested in quantum computing and quantum information science. He is also passionate about gastronomy, and in his spare time, likes to try out new restaurants and cook food that doesn’t meet his expectations. He tries to balance his excess caloric intake with sports, having fenced professionally, and mainly training Muay Thai and playing tennis nowadays.',
   url: 'hsu-ting-tung',
 }
 - {name: 'Yiyi Zhu',
@@ -78,8 +94,8 @@ ug:
   phone: '(775) 225-7355',
   email: 'jnlepley [at] umich [dot] edu',
   lab: 'Homer A. Neal Lab 3214' ,
-  image: 'assets/img/Portrait_Placeholder.png',
-  about: 'Coming soon',
+  image: 'assets/img/jacoblepley.jpg',
+  about: 'I am senior studying computer engineering and physics, and it’s my goal to eventually work in quantum computing. In my spare time I enjoy working out and playing souls like and rogue like games. Given the opportunity, I love to travel, camp, build PCs, and hike. ',
   url: 'jacob-lepley',
 }
 #- {name: 'Lab Technician',
