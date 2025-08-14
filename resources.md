@@ -24,7 +24,7 @@ This is still work-in-progress, but here you will find resources for students an
         </ul>
     <li style="margin-bottom: 5px margin-top: 5px"><a href="#ack">Acknowledgments</a></li>
         <ul>
-            <li style="margin-bottom: 3px"><a href="#ack_land">Land acknowledgments</a></li>
+            <!--<li style="margin-bottom: 3px"><a href="#ack_land">Land acknowledgments</a></li>-->
             <li style="margin-bottom: 3px"><a href="#ack_money">Funding acknowledgments</a></li>
             <li><a href="#ack_website">Website acknowledgments</a></li>
         </ul>
@@ -126,12 +126,14 @@ If you are interested in pursuing graduate school in a STEM field, most programs
     <li style="margin-bottom: 3px">
         <a href="https://housing.umich.edu/graduate-housing-basics/"> UM graduate housing resources</a>
     </li>
+    <!--
     <li style="margin-bottom: 3px">
         <a href="https://lsa.umich.edu/physics/physics-dei.html">DEI resources in the UM Physics Department</a>
     </li>
     <li style="margin-bottom: 3px">
         <a href="https://lsa.umich.edu/lsa/dei/student-resources.html">DEI resources from LSA</a>
     </li>
+    -->
     <li>
         <a href="https://deanofstudents.umich.edu/critical-incidents">Dean of Students incident reporting and help</a>
     </li>
@@ -184,13 +186,14 @@ coming soon
 <a name="ack"></a>
 ## Acknowledgments
 
+<!--
 <a name="ack_land"></a>
 #### Land acknowledgment
 
 This lab sits on the campus of the University of Michigan. I acknowledge that The University of Michigan, named for Michigami, the world’s largest freshwater system and located in the Huron River watershed, was formed and has grown through connections with the land stewarded by Niswi Ishkodewan Anishinaabeg: The Three Fires People who are the Ojibwe, Odawa, and Boodewadomi along with their neighbors the Seneca, Delaware, Shawnee, and Wyandot nations. Today we benefit from access to land and resources originally acquired through ​the Treaty at the Foot of the Rapids, a coercive and unfulfilled treaty which promised reciprocity, mutual respect, and access to education. 
 
 I acknowledge that the historical origins and present location of the University of Michigan were made possible by indigenous people’s cession of lands under coercive treaties common in the colonization and expansion of the United States. I also acknowledge that this country would not exist if it wasn't for the free, enslaved labor of Black people. I honor the legacy of the African diaspora and Black life, knowledge and skills stolen due to violence and white supremacy. I am committed to supporting underrepresented communities at the University of Michigan however I am able.
-
+-->
 
 <a name="ack_money"></a>
 #### Funding acknowledgment
@@ -222,6 +225,6 @@ To that end, it is my hope that anyone joining my lab will contribute to a posit
 - Offering what help you can when asked
 - Learning to split up work and resources effectively
 - Listening to, and considering, ideas no matter where they come from. An undergraduate's voice should be valued just as a PI's is.
-- The only boilerplate part of this: treating everyone in the lab as an equal, regardless of age, race, ethnicity, sexual orientation, gender identity, gender expression, marital status, nationality, political affiliation, ability status, or educational background. Everyone should have access to the exploration of science without fear of harassment or discrimination, and they will not be tolerated.
+- The only boilerplate part of this: treating everyone in the lab as an equal, regardless of age, race, ethnicity, sexual orientation, gender identity, gender expression, marital status, nationality, political affiliation, ability status, or educational background. Everyone should have access to the exploration of science without fear of harassment or discrimination, which will not be tolerated.
 
-We are all students of physics in this space, and it needs to be a place where we can all feel comfortable expressing what we do and do not understand without fear of judgment, and with a hope of learning more about the world.
+We are all students of physics in this space, and it needs to be a place where we can all feel comfortable expressing what we do and do not understand --- without fear of judgment, and with a hope of learning more about the world.
