@@ -126,6 +126,12 @@ If you are interested in pursuing graduate school in a STEM field, most programs
     <li style="margin-bottom: 3px">
         <a href="https://housing.umich.edu/graduate-housing-basics/"> UM graduate housing resources</a>
     </li>
+    <li>
+        <a href="https://lsa.umich.edu/sweetland">The UM Sweetland Center for Writing - including Dissertation writing groups and feedback!</a>
+    </li>
+    <li>
+        <a href="https://mbc.studentlife.umich.edu/">Maize and Blue Cupboard</a>
+    </li>
     <!--
     <li style="margin-bottom: 3px">
         <a href="https://lsa.umich.edu/physics/physics-dei.html">DEI resources in the UM Physics Department</a>
